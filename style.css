@@ -1,0 +1,272 @@
+
+input{
+    margin-top: 20px;
+}
+.a {
+    display: grid;
+    text-align: center;
+    width: 488px;
+    position: relative;
+    left: 25%;
+    
+}
+.a input{
+    padding: 13px;
+    text-align: center;
+    outline: none;
+    border-color: black;
+    border: 1px solid;
+}
+.a input:focus{
+    box-shadow: 0px 0px 5px 3px blue ;
+    outline: none;
+}
+.a1{
+    background-color: darksalmon;
+    display: grid;
+    text-align: center;
+    width: 488px;
+    left: 25%;
+    border: 1px solid;
+    padding: 10px;
+    padding-top: 7px;
+    position: relative;
+    top: -28px;
+    
+}
+.a2{
+    background-color: darksalmon;
+    display: grid;
+    text-align: center;
+    width: 488px;
+    left: 25%;
+    border: 1px solid;
+    padding: 10px;
+    padding-top: 7px;
+    position: relative;
+    top: 0px;
+    
+}
+.a3{
+    background-color: darksalmon;
+    display: grid;
+    text-align: center;
+    width: 488px;
+    left: 25%;
+    border: 1px solid;
+    padding: 10px;
+    padding-top: 7px;
+    position: relative;
+    top: 50px;
+}
+.a4{
+    background-color: darksalmon;
+    display: grid;
+    text-align: center;
+    width: 488px;
+    left: 25%;
+    border: 1px solid;
+    padding: 10px;
+    padding-top: 7px;
+    position: relative;
+    top: 80px;
+}
+.a5{
+    background-color: darksalmon;
+    display: grid;
+    text-align: center;
+    width: 488px;
+    left: 25%;
+    border: 1px solid;
+    padding: 10px;
+    padding-top: 7px;
+    position: relative;
+    top: 110px;
+}
+.a6{
+    background-color: darksalmon;
+    display: grid;
+    text-align: center;
+    width: 488px;
+    left: 25%;
+    border: 1px solid;
+    padding: 10px;
+    padding-top: 7px;
+    position: relative;
+    top: 140px;
+} 
+.a7{
+    background-color: darksalmon;
+    display: grid;
+    text-align: center;
+    width: 488px;
+    left: 25%;
+    border: 1px solid;
+    padding: 10px;
+    padding-top: 7px;
+    position: relative;
+    top: 170px;
+}
+.a8{
+    background-color: darksalmon;  
+      display: grid;
+    text-align: center;
+    width: 488px;
+    left: 25%;
+    border: 1px solid;
+    padding: 10px;
+    padding-top: 7px;
+    position: relative;
+    top: 200px;
+    }
+.a9{  
+    background-color: darksalmon;
+      display: grid;
+    text-align: center;
+    width: 488px;
+    left: 25%;
+    border: 1px solid;
+    padding: 10px;
+    padding-top: 7px;
+    position: relative;
+    top: 230px;
+    }
+.a10{  background-color: darksalmon;
+       display: grid;
+    text-align: center;
+    width: 488px;
+    left: 25%;
+    border: 1px solid;
+    padding: 10px;
+    padding-top: 7px;
+    position: relative;
+    top: 260px;
+    }
+.a11{  background-color: darksalmon;
+      display: grid;
+    text-align: center;
+    width: 488px;
+    left: 25%;
+    border: 1px solid;
+    padding: 10px;
+    padding-top: 7px;
+    position: relative;
+    top: 290px;
+    }
+.a12{  background-color: darksalmon;   
+      display: grid;
+    text-align: center;
+    width: 488px;
+    left: 25%;
+    border: 1px solid;
+    padding: 10px;
+    padding-top: 7px;
+    position: relative;
+    top: 320px;
+}
+.a13{
+    display: grid;
+    text-align: center;
+    width: 488px;
+    left: 25%;
+    border: 1px solid;
+    padding: 10px;
+    padding-top: 7px;
+    position: relative;
+    top: 350px;
+}
+    
+
+.a1 input{
+    padding: 13px;
+    text-align: center;
+    outline: none;
+    border-color: black;
+    border: 1px solid;
+}
+.a2 input{
+    padding: 13px;
+    text-align: center;
+    outline: none;
+    border-color: black;
+    border: 1px solid;
+}
+.a3 input{
+    padding: 13px;
+    text-align: center;
+    outline: none;
+    border-color: black;
+    border: 1px solid;
+}
+.a4 input{
+    padding: 13px;
+    text-align: center;
+    outline: none;
+    border-color: black;
+    border: 1px solid;
+}
+.a5 input{
+    padding: 13px;
+    text-align: center;
+    outline: none;
+    border-color: black;
+    border: 1px solid;
+}
+.a6 input{
+    padding: 13px;
+    text-align: center;
+    outline: none;
+    border-color: black;
+    border: 1px solid;
+}
+.a7 input{
+    padding: 13px;
+    text-align: center;
+    outline: none;
+    border-color: black;
+    border: 1px solid;
+}
+.a8 input{
+    padding: 13px;
+    text-align: center;
+    outline: none;
+    border-color: black;
+    border: 1px solid;
+}
+.a9 input{
+    padding: 13px;
+    text-align: center;
+    outline: none;
+    border-color: black;
+    border: 1px solid;
+}
+.a10 input{
+    padding: 13px;
+    text-align: center;
+    outline: none;
+    border-color: black;
+    border: 1px solid;
+}
+.a11 input{
+    padding: 13px;
+    text-align: center;
+    outline: none;
+    border-color: black;
+    border: 1px solid;
+}
+.a12 input{
+    padding: 13px;
+    text-align: center;
+    outline: none;
+    font-size: 24px;
+    border-color:gray;
+    border: 1px solid;
+}
+.a13 input{
+    padding: 13px;
+    text-align: center;
+    outline: none;
+    font-size: 24px;
+    border-color: black;
+    border: 1px solid;
+}
